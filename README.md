@@ -28,7 +28,7 @@ There are two ways to install the script:
 
 1. Run the following command in your terminal:
     ```sh
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig_curl.sh)"
     ```
 2. The script will automatically configure your environment.
 3. If you encounter any issues, please let me know by creating an issue.
