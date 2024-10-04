@@ -3,6 +3,9 @@
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
 This project provides a script to configure my development environment with various tools and settings.
+I provide a easy way for you to configure your environment with the same tools and settings just like the picture below.
+
+<img src="https://github.com/riverify/weztern-autoconfig/blob/main/img/jetpack.png?raw=true">
 
 ## Features
 
