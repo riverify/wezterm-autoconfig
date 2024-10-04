@@ -20,6 +20,20 @@ This project provides a script to configure my development environment with vari
 
 ## Installation
 
+There are two ways to install the script:
+
+### Method 1: Using `curl`
+
+1. Run the following command in your terminal:
+    ```sh
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig.sh)"
+    ```
+2. The script will automatically configure your environment.
+3. If you encounter any issues, please let me know by creating an issue.
+
+
+### Method 2: Using `git`
+
 1. Clone the repository:
     ```sh
     git clone https://github.com/riverify/weztern-autoconfig.git
