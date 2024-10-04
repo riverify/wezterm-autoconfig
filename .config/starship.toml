@@ -1,0 +1,37 @@
+# Don't print a new line at the start of the prompt
+add_newline = false
+
+# Prompt to show when opening a new line
+[character]
+success_symbol = "[→](bold green)" # The symbol to use when the command succeeds
+error_symbol = "[→](bold red)"    # The symbol to use when the command fails
+vicmd_symbol = "[→](bold yellow)" # The symbol to use in vi mode (optional)
+
+# Customize the time format to display only the current time
+[time]
+format = "[]() "
+time_format = "%H:%M:%S"
+
+# Customize the directory display
+[directory]
+truncation_length = 3
+truncation_symbol = "…/"
+home_symbol = "~"
+read_only = "🔒"
+
+# Git branch configuration
+[git_branch]
+symbol = "🌿 "   # The symbol to display for git branches
+
+# Git status configuration
+[git_status]
+staged = "[+] "         # The symbol to show for staged changes
+modified = "[✎] "       # The symbol to show for modified changes
+deleted = "[-] "        # The symbol to show for deleted files
+ahead = "⇡ "            # The symbol to show if the branch is ahead of the remote
+behind = "⇣ "           # The symbol to show if the branch is behind the remote
+untracked = "[?] "      # The symbol to show for untracked files
+
+# Disable package module
+[package]
+disabled = true
