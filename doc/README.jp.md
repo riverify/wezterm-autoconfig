@@ -1,6 +1,6 @@
 # WezTerm 自動設定
 
-![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
+![License](https://img.shields.io/github/license/riverify/wezterm-autoconfig)
 
 🌐 **言語**: [English](../README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
 
@@ -35,7 +35,7 @@
 
 1. ターミナルで以下のコマンドを実行します：
     ```sh
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig_curl.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/wezterm-autoconfig/main/autoconfig_curl.sh)"
     ```
 2. スクリプトは自動的に環境を設定します。
 3. 問題が発生した場合は、Issueを作成して報告してください。
@@ -44,8 +44,8 @@
 
 1. リポジトリをクローンします：
     ```sh
-    git clone https://github.com/riverify/weztern-autoconfig.git
-    cd weztern-autoconfig
+    git clone https://github.com/riverify/wezterm-autoconfig.git
+    cd wezterm-autoconfig
     ```
 
 2. メインスクリプトに実行権限を付与します：

@@ -1,6 +1,6 @@
 # WezTerm 自动配置
 
-![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
+![License](https://img.shields.io/github/license/riverify/wezterm-autoconfig)
 
 🌐 **语言**: [English](../README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
 
@@ -36,7 +36,7 @@
 
 1. 在终端中运行以下命令：
     ```sh
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig_curl.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/wezterm-autoconfig/main/autoconfig_curl.sh)"
     ```
 2. 脚本将自动配置你的环境。
 3. 如果遇到任何问题，请通过创建 issue 告诉我。
@@ -45,8 +45,8 @@
 
 1. 克隆仓库：
     ```sh
-    git clone https://github.com/riverify/weztern-autoconfig.git
-    cd weztern-autoconfig
+    git clone https://github.com/riverify/wezterm-autoconfig.git
+    cd wezterm-autoconfig
     ```
 
 2. 设置主脚本权限：

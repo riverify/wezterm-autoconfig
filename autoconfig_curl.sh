@@ -12,7 +12,7 @@ echo "Press Enter to use English by default."
 read -rp "Enter your choice: " language_choice
 
 # GitHub仓库基础URL
-GITHUB_BASE_URL="https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/script"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/riverify/wezterm-autoconfig/main/script"
 
 # 根据用户选择设置语言
 case "$language_choice" in

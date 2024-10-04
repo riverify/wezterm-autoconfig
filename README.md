@@ -1,6 +1,6 @@
 # WezTerm Autoconfig
 
-![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
+![License](https://img.shields.io/github/license/riverify/wezterm-autoconfig)
 
 🌐 **Languages**: [English](README.md) | [简体中文](doc/README.zh-cn.md) | [日本語](doc/README.jp.md)
 
@@ -37,7 +37,7 @@ There are two ways to install the script:
 
 1. Run the following command in your terminal:
     ```sh
-    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/weztern-autoconfig/main/autoconfig_curl.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/riverify/wezterm-autoconfig/main/autoconfig_curl.sh)"
     ```
 2. The script will automatically configure your environment.
 3. If you encounter any issues, please let me know by creating an issue.
@@ -47,8 +47,8 @@ There are two ways to install the script:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/riverify/weztern-autoconfig.git
-    cd weztern-autoconfig
+    git clone https://github.com/riverify/wezterm-autoconfig.git
+    cd wezterm-autoconfig
     ```
 
 2. Make the main script executable:
