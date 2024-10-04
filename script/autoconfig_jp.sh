@@ -144,7 +144,8 @@ setup_starship() {
     echo "Starship の設定ファイルは既に存在します。スキップします。"
   else
     mkdir -p ~/.config
-    cat <<EOF > ~/.config/starship.toml
+    # use more accurate EOF to ensure correct writing
+    cat > ~/.config/starship.toml <<'EOF'
 # version: 1.0.0
 
 add_newline = true
