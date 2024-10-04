@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
+🌐 **Languages**: [English](README.md) | [简体中文](README.zh-cn.md) | [日本語](README.jp.md)
+
+
 This project provides a script to configure my development environment with various tools and settings.
 I provide a easy way for you to configure your environment with the same tools and settings just like the picture below.
 
@@ -20,8 +23,10 @@ I provide a easy way for you to configure your environment with the same tools a
 
 ## Prerequisites
 
-- **macOS**: The scripts are designed to run on macOS.
-- **Homebrew**: Ensure Homebrew is installed on your system.
+- **macOS**: The scripts are designed to run on macOS. But you can still use it on other systems with some modifications. Try it at your own risk.
+- **Smooth Internet**: The script will download and install various tools and packages, so a good internet connection is a must.
+
+**Once you have done the little things above, you can start to install the script immediately.**
 
 ## Installation
 
