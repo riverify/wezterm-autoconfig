@@ -32,7 +32,7 @@ I provide a easy way for you to configure your environment with the same tools a
 
 There are two ways to install the script:
 
-### Method 1: Using `curl`
+### Method 1: Using `curl` (Recommended)
 
 1. Run the following command in your terminal:
     ```sh
