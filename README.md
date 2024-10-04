@@ -24,6 +24,7 @@ I provide a easy way for you to configure your environment with the same tools a
 ## Prerequisites
 
 - **macOS**: The scripts are designed to run on macOS. But you can still use it on other systems with some modifications. Try it at your own risk.
+- **Remove Existing Configurations**: Before running the script, better to remove existing _Starship_ and _WezTerm_ configurations, it is okay if you don't, you will have to see what you want to keep.
 - **Smooth Internet**: The script will download and install various tools and packages, so a good internet connection is a must.
 
 **Once you have done the little things above, you can start to install the script immediately.**
