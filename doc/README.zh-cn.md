@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
-🌐 **语言**: [English](README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
+🌐 **语言**: [English](../README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
 
 本项目提供了一个全自动的脚本，用于配置和我一样的终端环境，其中包含各种工具和设置。
 我提供了一种简单的方法，让你可以快速配置出像下图一样效果的终端。

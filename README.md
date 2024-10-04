@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
-🌐 **Languages**: [English](README.md) | [简体中文](README.zh-cn.md) | [日本語](README.jp.md)
+🌐 **Languages**: [English](README.md) | [简体中文](doc/README.zh-cn.md) | [日本語](doc/README.jp.md)
 
 
 This project provides a script to configure my development environment with various tools and settings.

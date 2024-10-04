@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
-🌐 **言語**: [English](README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
+🌐 **言語**: [English](../README.md) | [简体中文](README.zh-cn.md) | [日本語](README.ja.md)
 
 このプロジェクトは、私と同じターミナル環境を自動的に構成するスクリプトを提供します。以下のようなターミナルの見た目と設定を簡単に再現することができます。
 
