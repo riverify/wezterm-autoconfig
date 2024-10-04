@@ -32,12 +32,22 @@ case "$language_choice" in
     ;;
 esac
 
-# 使用 curl 下载并执行对应的脚本
-echo "Now executing $SCRIPT_URL..."
-bash <(curl -s "$SCRIPT_URL")
+# 创建临时文件
+TMP_SCRIPT=$(mktemp)
+
+# 下载脚本到临时文件
+echo "Downloading script from $SCRIPT_URL..."
+curl -s "$SCRIPT_URL" -o "$TMP_SCRIPT"
 
 # 检查 curl 是否成功
 if [[ $? -ne 0 ]]; then
-  echo "Failed to download or execute the script from $SCRIPT_URL"
+  echo "Failed to download the script from $SCRIPT_URL"
   exit 1
 fi
+
+# 给临时文件添加执行权限并运行
+chmod +x "$TMP_SCRIPT"
+bash "$TMP_SCRIPT"
+
+# 删除临时文件
+rm "$TMP_SCRIPT"
