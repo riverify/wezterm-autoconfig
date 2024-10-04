@@ -1,6 +1,6 @@
 # WezTern Autoconfig
 
-[![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)](
+![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
 This project provides a script to configure my development environment with various tools and settings.
 
