@@ -1,4 +1,4 @@
-# WezTern 自动配置
+# WezTerm 自动配置
 
 ![License](https://img.shields.io/github/license/riverify/weztern-autoconfig)
 
